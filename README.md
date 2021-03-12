@@ -16,6 +16,7 @@ Hi, I'm Selvin, a frontend engineer from China 🇨🇳.
 
 ## ⛳️ Project Release
 
+Nothing Released
 
 <!-- github_plugin_end -->
 
@@ -23,7 +24,13 @@ Hi, I'm Selvin, a frontend engineer from China 🇨🇳.
 
 ## 🌗 Weekly Development Breakdown
 
-
+```text
+JavaScript  1 hr 14 mins   ██████░░░░░░░░░░░░░░░  28.7%
+Markdown    1 hr 5 mins    █████▎░░░░░░░░░░░░░░░  25.3%
+TypeScript  57 mins        ████▋░░░░░░░░░░░░░░░░  22.5%
+Other       31 mins        ██▌░░░░░░░░░░░░░░░░░░  12.1%
+JSON        29 mins        ██▍░░░░░░░░░░░░░░░░░░  11.4%
+```
 
 <!-- wakatime_plugin_end -->
 
