@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   push:
-    # 只有推送到 master 分支才会触发
+    # 只有推送到 main 分支才会触发
     branches:
       - main
   schedule:
@@ -30,6 +30,9 @@ jobs:
           WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
       - name: Commit and push if changed
         run: |-
+          git diff
+          git config --global user.email "528370630@qq.com"
+          git config --global user.name "Selvin11"
           git pull
           git add -A
           git commit -m "Daily: update README.md" || exit 0
