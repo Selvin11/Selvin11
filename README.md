@@ -5,12 +5,6 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 Hi, I'm Selvin, a frontend engineer from China 🇨🇳. 
 
-## 💬 Contact Me
-
-- <a href="https://twitter.com/SelvinGui">
-  <img align="left" alt="SelvinGui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 
 <!-- github_plugin_start -->
 
@@ -45,8 +39,14 @@ JSON        29 mins        ██▍░░░░░░░░░░░░░░�
 
 <img src="https://github-readme-stats.vercel.app/api?username=Selvin11&show_icons=true&theme=gotham" alt="Selvin11" />
 
+## 💬 Contact Me
+
+- <a href="https://twitter.com/SelvinGui">
+  <img align="left" alt="SelvinGui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ---
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=Selvin11.visitor-badge)
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Selvin11.visitor-badge" /></p>
