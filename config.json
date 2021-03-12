@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "github": {
+      "url": "https://github.com/Selvin11",
+      "latest": 5
+    },
+    "wakatime": {
+      "url": "https://github.com/Selvin11",
+      "latest": 5
+    }
+  }
+}
