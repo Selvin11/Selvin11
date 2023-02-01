@@ -18,6 +18,9 @@ Nothing Released
 
 ## 🌗 Weekly Development Breakdown
 
+```text
+TypeScript  1 min          █████████████████████ 100.0%
+```
 
 <!-- wakatime_plugin_end -->
 
