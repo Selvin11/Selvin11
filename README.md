@@ -18,6 +18,10 @@ Nothing Released
 
 ## 🌗 Weekly Development Breakdown
 
+```text
+TypeScript  2 hrs 43 mins  ███████████████████░░  90.7%
+JavaScript  16 mins        █▉░░░░░░░░░░░░░░░░░░░   9.3%
+```
 
 <!-- wakatime_plugin_end -->
 
